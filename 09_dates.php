@@ -1,13 +1,13 @@
 <?php
 
-// Print current date
+// Aktuelles Datum ausgeben
 
-// Print yesterday
+// gestriges Datum ausgeben
 
-// Different format: https://www.php.net/manual/en/function.date.php
+// Andere Formate: https://www.php.net/manual/en/function.date.php
 
-// Print current timestamp
+// Aktuellen Timestamp ausgeben
 
-// Parse date: https://www.php.net/manual/en/function.date-parse.php
+// Datum Parsen: https://www.php.net/manual/en/function.date-parse.php
 
-// Parse date from format: https://www.php.net/manual/en/function.date-parse-from-format.php
+// Datum aus Format parsen: https://www.php.net/manual/en/function.date-parse-from-format.php
