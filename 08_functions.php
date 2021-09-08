@@ -1,11 +1,11 @@
 <?php
 
-// Function which prints "Hello I am Zura"
+// Funktion, die ausgibt "Hallo ich bin..."
 
-// Function with argument
+// Funktion mit Argument
 
-// Create sum of two functions
+// Summe von zwei Funktionen erstellen
 
-// Create function to sum all numbers using ...$nums
+// Funktion zum Summieren aller Zahlen mit ...$nums erstellen
 
-// Arrow functions
+// Arrow-funktionen
