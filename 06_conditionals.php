@@ -1,24 +1,24 @@
 <?php
 
-$age = 20;
-$salary = 300000;
+$alter = 12;
+$sparen = 10;
 
-// Sample if
+// Beispiel wenn
 
-// Without circle braces
+// Ohne geschweifte Klammern
 
-// Sample if-else
+// Beispiel if-else
 
-// Difference between == and ===
+// Unterschied zwischen == und ===
 
-// if AND
+// wenn UND
 
-// if OR
+// wenn ODER
 
-// Ternary if
+// Ternäres wenn
 
-// Short ternary
+// Kurzer ternärer
 
-// Null coalescing operator
+// Null-Koaleszenz-Operator
 
-// switch
+// Schalter
