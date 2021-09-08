@@ -1,61 +1,61 @@
 <?php
 
-// Create array
+// Array erstellen
 
-// Print the whole array
+// Gesamtes Array ausgeben
 
-// Get element by index
+// Element nach Index abfragen
 
-// Set element by index
+// Element nach Index setzen
 
-// Check if array has element at index 2
+// Prüfen, ob Array Element bei Index 2 hat
 
-// Append element
+// Anhängen eines Elements
 
-// Print the length of the array
+// Länge des Arrays ausgeben
 
-// Add element at the end of the array
+// Hinzufügen eines Elements am Ende des Arrays
 
-// Remove element from the end of the array
+// Element vom Ende des Arrays entfernen
 
-// Add element at the beginning of the array
+// Hinzufügen eines Elements am Anfang des Arrays
 
-// Remove element from the beginning of the array
+// Element vom Anfang des Arrays entfernen
 
-// Split the string into an array
+// Aufteilung der Zeichenkette in ein Array
 
-// Combine array elements into string
+// Array-Elemente zu einer Zeichenkette zusammenfügen
 
-// Check if element exist in the array
+// Prüfen, ob Element im Array vorhanden
 
-// Search element index in the array
+// Elementindex im Array suchen
 
-// Merge two arrays
+// Zusammenführen zweier Arrays
 
-// Sorting of array (Reverse order also)
+// Sortieren von Arrays (auch in umgekehrter Reihenfolge)
 
 
 // https://www.php.net/manual/en/ref.array.php
 
 // ============================================
-// Associative arrays
+// Assoziative Arrays
 // ============================================
 
-// Create an associative array
+// Erstellen eines assoziativen Arrays
 
-// Get element by key
+// Element nach Schlüssel abfragen
 
-// Set element by key
+// Setzen eines Elements nach Schlüssel
 
-// Null coalescing assignment operator. Since PHP 7.4
+// Nullverschmelzender Zuweisungsoperator. Seit PHP 7.4
 
-// Check if array has specific key
+// Prüfen, ob Array einen bestimmten Schlüssel hat
 
-// Print the keys of the array
+// Druckt die Schlüssel des Arrays
 
-// Print the values of the array
+// Ausgabe der Werte des Arrays
 
-// Sorting associative arrays by values, by keys
+// Sortieren von assoziativen Arrays nach Werten, nach Schlüsseln
 
 
-// Two dimensional arrays
+// Zweidimensionale Arrays
