@@ -2,7 +2,7 @@
 
 // while
 
-// Loop with $counter
+// Loop mit $counter
 
 // do - while
 
@@ -10,4 +10,4 @@
 
 // foreach
 
-// Iterate Over associative array.
+// Iterieren über assoziatives Array.
