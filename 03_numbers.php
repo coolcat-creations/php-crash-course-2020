@@ -1,21 +1,21 @@
 <?php
 
-// Declaring numbers
+// Zahlen deklarieren
 
-// Arithmetic operations
+// Arithmetische Operationen
 
-// Assignment with math operators
+// Zuweisung mit mathematischen Operatoren
 
-// Increment operator
+// Erhöhungsoperator
 
-// Decrement operator
+// Dekrementier-Operator
 
-// Number checking functions
+// Funktionen zur Zahlenprüfung
 
-// Conversion
+// Konvertierung
 
-// Number functions
+// Zahlenfunktionen
 
-// Formatting numbers
+// Formatierung von Zahlen
 
 // https://www.php.net/manual/en/ref.math.php
