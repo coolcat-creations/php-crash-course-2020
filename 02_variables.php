@@ -1,25 +1,26 @@
 <?php
 
-// What is a variable
+// Was ist eine Variable?
 
-// Variable types
+// Variablentypen
 
-// Declare variables
+// Variablen deklarieren
 
-// Print the variables. Explain what is concatenation
+// Drucken der Variablen. Erläutern, was Verkettung ist
 
-// Print types of the variables
+// Variablentypen ausgeben
 
-// Print the whole variable
+// Ausgeben der gesamten Variablen
 
-// Change the value of the variable
+// Ändern des Wertes der Variablen
 
-// Print type of the variable
+// Typ der Variablen ausgeben
 
-// Variable checking functions
+// Funktionen zur Überprüfung von Variablen
 
-// Check if variable is defined
+// Prüfen, ob Variable definiert ist
 
-// Constants
+// Konstanten
 
-// Using PHP built-in constants
+// Verwendung von in PHP eingebauten Konstanten
+
