@@ -1,13 +1,13 @@
 <?php
 
-// Create simple string
+// Einfache Zeichenkette erstellen
 
-// String concatenation
+// String-Verkettung
 
-// String functions
+// Zeichenkettenfunktionen
 
-// Multiline text and line breaks
+// Mehrzeiliger Text und Zeilenumbrüche
 
-// Multiline text and reserve html tags
+// Mehrzeiliger Text und Reserve-HTML-Tags
 
 // https://www.php.net/manual/en/ref.strings.php
